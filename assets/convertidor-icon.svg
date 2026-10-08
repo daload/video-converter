@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">Convertidor icon</title>
+  <desc id="description">A white video play symbol inside turquoise conversion arrows on a rounded blue square.</desc>
+  <defs>
+    <linearGradient id="background" x1="128" y1="64" x2="864" y2="960" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2382f5"/>
+      <stop offset="0.52" stop-color="#155ee5"/>
+      <stop offset="1" stop-color="#1537a2"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="272" y1="344" x2="752" y2="680" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e7f2ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="64" y="76" width="896" height="896" rx="196" fill="#0a245d" opacity="0.16"/>
+  <rect x="64" y="64" width="896" height="896" rx="196" fill="url(#background)"/>
+  <rect x="66" y="66" width="892" height="892" rx="194" fill="none" stroke="#ffffff" stroke-width="4" opacity="0.16"/>
+  <g fill="none" stroke="#76f2ed" stroke-width="44" stroke-linecap="round">
+    <path d="M260 280 C400 146 634 146 764 278"/>
+    <path d="M764 744 C634 878 400 878 260 746"/>
+  </g>
+  <g fill="#76f2ed">
+    <path d="M808 330 L712 304 L788 228 Z"/>
+    <path d="M216 694 L312 720 L236 796 Z"/>
+  </g>
+  <rect x="272" y="358" width="480" height="336" rx="60" fill="#082875" opacity="0.22"/>
+  <rect x="272" y="344" width="480" height="336" rx="60" fill="url(#screen)"/>
+  <path d="M448 420 L448 604 L608 512 Z" fill="#155ee5"/>
+</svg>
